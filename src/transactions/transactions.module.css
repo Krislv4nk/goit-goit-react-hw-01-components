@@ -1,0 +1,30 @@
+
+.transactionhistory {
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.container {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thead {
+  background-color: #71cccc;
+}
+
+.tr {
+  border: 1px solid #ddd;
+}
+
+.type, .amount, .currency {
+  padding: 10px;
+  text-align: center;
+}
+.td {
+   text-align: center; 
+   margin-bottom: 5px;
+   background-color: #c1d1d1;
+}
